@@ -30,7 +30,7 @@
 ## Usage
 
 자세한 프로그램 사용 방법은 아래 pdf 파일에서 확인할 수 있습니다.  
-[설명서.pdf](https://github.com/usuyn/web-practice/files/7464380/default.pdf)
+[설명서](https://github.com/usuyn/restaurant-reservation/files/7488968/default.pdf)
 
 ## Flowchart
 
